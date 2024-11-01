@@ -1,0 +1,16 @@
+#business-info-wrap {
+    margin: 2rem;
+}
+
+#sitebam-form-area {
+    display: inline-block;
+    border: 1px solid #ccc;
+    padding: 0.5rem 1rem;
+    margin-top: 1.5rem;
+}
+
+.sitebam-logo {
+    display: block;
+    width: 241px;
+    margin-bottom: 1rem;
+}
